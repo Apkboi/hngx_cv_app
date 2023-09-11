@@ -1,16 +1,25 @@
-# hngx_cv_app
+# HNG_CV_TASK
 
-A new Flutter project.
+Welcome to the HNG_CV_TASK Flutter project! This project showcases my personal details and provides the ability to edit and update these details. 
+
+## Features
+
+- Display personal details, including name, contact information, skills, and more.
+- Edit and update personal information to keep your CV up-to-date.
+- Simple and intuitive user interface.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to set up and run the project on your local machine:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/) installed on your machine.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```shell
+   git clone https://github.com/your-username/HNG_CV_TASK.git
